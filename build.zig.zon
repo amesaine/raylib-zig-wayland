@@ -1,0 +1,16 @@
+.{
+    .name = "smear",
+    .version = "0.0.1",
+    .dependencies = .{
+        .raylib = .{
+            .url = "https://github.com/raysan5/raylib/archive/efce4d69ce913bca42289184b0bffe4339c0193f.tar.gz",
+            .hash = "1220055a322aac82f0c8104810bac892eaf62ab11582ca0f7bd1d04081048c67a081",
+        },
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "README.md",
+        "src",
+    },
+}
