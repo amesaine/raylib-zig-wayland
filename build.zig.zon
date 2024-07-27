@@ -1,5 +1,5 @@
 .{
-    .name = "smear",
+    .name = "raylib-zig-wayland",
     .version = "0.0.1",
     .dependencies = .{
         .raylib = .{
