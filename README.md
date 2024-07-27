@@ -2,6 +2,9 @@
 
 Setup C interop with raylib on Wayland for dummies (aka me).
 
+
+![screenshot of GUI program](https://github.com/amesaine/raylib-zig-wayland/blob/main/screenshot.png)
+
 ## Environment
 
 - Zig 0.13.0
